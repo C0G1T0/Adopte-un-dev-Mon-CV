@@ -4,7 +4,7 @@
 
 ## Pour visualiser le projet en ligne :
 
-Cette application est une boutique en ligne qui permet à tous ceux qui cherchent un développeur web de trouver leur bonheur !
+Cette application est une boutique en ligne qui permet à tous ceux qui cherchent un développeur web de trouver leur bonheur ! Vous y trouverez également mon CV.
 
 L'utilisateur choisit les compétences qui l'intéresse et les ajoute à son panier.
 L'application va ensuite séléctionner le meilleur profil de la base de donnée et le présenter à l'utilisateur.

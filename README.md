@@ -2,7 +2,7 @@
 
 ## Projet Full stack MERN : MongoDB, Express, React-Redux, Node
 
-## Pour visualiser le projet en ligne :
+## Pour visualiser le projet en ligne : https://adopte-1-dev.herokuapp.com/
 
 Cette application est une boutique en ligne qui permet à tous ceux qui cherchent un développeur web de trouver leur bonheur ! Vous y trouverez également mon CV.
 
